@@ -57,7 +57,7 @@ header{
 /*cover end*/
 /*blog start*/
 .blog{
-	padding: 40px 0;
+	padding: 70px 0 40px;
 }
 .wrapper2{
 	width: 80%;
@@ -88,7 +88,7 @@ h1{
 .single_item{
 	width: 45%;
 	float: left;
-	padding: 30px 0;
+	padding: 40px 0 40px;
 }
 .single_item img{
 	width: 100%;
@@ -102,7 +102,7 @@ h1{
 .newsletter{
 	background-color: #f0f0f0;
 	padding: 50px 0;
-	margin: 20px 0;
+	margin: 20px 0 50px;
 }
 .signup{
 	width: 40%;
@@ -118,6 +118,7 @@ h1{
 .for_form{
 	position: relative;
 	width: 430px;
+	margin-bottom: 25px;
 }
 .for_form input{
 	font-size: 18px;
@@ -142,8 +143,8 @@ h1{
 /*newslatter end*/
 /*button start*/
 .btn{
-	padding: 50px 0;
-	margin-bottom: 30px;
+	padding: 10px 0;
+	margin-bottom: 75px;
 }
 .b_button{
 	text-align: center;
